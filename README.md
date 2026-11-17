@@ -6,7 +6,7 @@
 
 Welcome to the companion repository for our OLC Accelerate 2026 session. This repository hosts all presentation materials, interactive artifacts, and supporting documentation curated for our exploration of Github for instructional designers.
 
-## What is included
+## What is included?
 
 - `accordion builder.html` — the interactive webpage you will fork, edit, and embed into your LMS
 - `index.html` — the workshop landing page
